@@ -1,5 +1,5 @@
 module github.com/Jille/grpc-multi-resolver
 
-go 1.13
+go 1.15
 
-require google.golang.org/grpc v1.31.1
+require google.golang.org/grpc v1.41.0
